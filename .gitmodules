@@ -1,0 +1,3 @@
+[submodule "claude-web-clone"]
+	path = claude-web-clone
+	url = https://github.com/adiscorpi/claude-web-clone.git
